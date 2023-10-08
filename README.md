@@ -1,1 +1,1 @@
-# Is Nuclear Fusion a sustainable practice?
+# Is Nuclear Fission a sustainable practice?
