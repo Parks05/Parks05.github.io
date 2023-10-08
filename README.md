@@ -1,8 +1,9 @@
-# *Is Nuclear Fission a sustainable practice?*
+# *Is producing electricity through Nuclear Fission sustainable?*
 ## Contents:
-### Introduction (100 words)
-
-
+### - Introduction (100 words)
+### - Positives of Nuclear Fission in recent years (400 words)
+### - Negatives of Nuclear Fission in recent years (400 words)
+### - Conclusion (100 words)
 
 
 
