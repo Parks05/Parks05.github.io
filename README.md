@@ -1,4 +1,4 @@
-# __Is Nuclear Fission a sustainable practice?__
+# **Is Nuclear Fission a sustainable practice?**
 ## Contents:
 
 
